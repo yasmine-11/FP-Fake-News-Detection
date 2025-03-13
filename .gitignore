@@ -56,5 +56,6 @@ FP_App/env/
 data/
 cleaned_data/
 g_data/
+embeddings/
 *.csv
 *.jsonl
