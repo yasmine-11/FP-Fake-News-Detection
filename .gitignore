@@ -35,6 +35,8 @@ results_fold5/
 
 # Exclude large model files
 distilbert_fake_news/model.safetensors
+# Ignore model artifacts (if using Git LFS)
+distilbert_fake_news/*.safetensors
 
 # Exclude large PyTorch libraries
 FP_App/env/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib
