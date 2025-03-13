@@ -41,3 +41,6 @@ FP_App/env/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib
 
 *.out
 *.err
+
+# Ignore environment and dependencies
+FP_App/env/
