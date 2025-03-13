@@ -19,7 +19,7 @@ nohup.out
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore model files (unless needed)
+# Ignore model files 
 distilbert_fake_news/
 roberta_fake_news/
 roberta_results/
@@ -35,3 +35,5 @@ results_fold5/
 
 *.out
 *.err
+*.dylib
+*.safetensors
