@@ -46,3 +46,8 @@ FP_App/env/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib
 
 # Ignore environment and dependencies
 FP_App/env/
+
+# Ignore data folders
+data/
+cleaned_data/
+g_data/
