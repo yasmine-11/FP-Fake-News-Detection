@@ -1,1 +1,37 @@
 env/
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Ignore logs and temporary files
+logs/
+*.log
+nohup.out
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files (unless needed)
+distilbert_fake_news/
+roberta_fake_news/
+roberta_results/
+distilbert_results/
+
+# Ignore results and outputs
+results/
+results_fold1/
+results_fold2/
+results_fold3/
+results_fold4/
+results_fold5/
+
+*.out
+*.err
