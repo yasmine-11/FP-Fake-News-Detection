@@ -1,5 +1,6 @@
 # FP-Fake-News-Detection
-[CM3070] Final project module, Fake news detection template
+### News Classification: Real, Fake or AI.
+[CM3070] Final project module, Adapted from the NLP fake news detection template.
 
 The rapid spread of misinformation and the rise of AI-
 generated content present new challenges in detecting
